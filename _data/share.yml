@@ -14,9 +14,13 @@ platforms:
     icon: "fab fa-telegram"
     link: "https://t.me/share/url?url=URL&text=TITLE"
 
-  - type: Steam
-    icon: "fa-brands fa-steam"
-    link: "https://steamcommunity.com/profiles/76561199686965886"
+  - type: QQ
+    icon: "fab fa-qq"
+    link: "https://connect.qq.com/widget/shareqq/index.html?url=URL&title=TITLE&source=TITLE"
+
+  - type: WeChat
+    icon: "fab fa-weixin"
+    link: "#wechat-share" # 注意：需要配合前端 JavaScript 弹出二维码或提示使用微信扫一扫
   # Uncomment below if you need to.
   #
   # - type: Linkedin
