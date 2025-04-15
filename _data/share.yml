@@ -14,10 +14,6 @@ platforms:
     icon: "fab fa-telegram"
     link: "https://t.me/share/url?url=URL&text=TITLE"
 
-  - type: QQ
-    icon: "fab fa-qq"
-    link: "https://connect.qq.com/widget/shareqq/index.html?url=URL&title=TITLE&source=TITLE"
-
   # Uncomment below if you need to.
   #
   # - type: Linkedin
