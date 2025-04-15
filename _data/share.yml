@@ -14,6 +14,9 @@ platforms:
     icon: "fab fa-telegram"
     link: "https://t.me/share/url?url=URL&text=TITLE"
 
+  - type: Steam
+    icon: "fa-brands fa-steam"
+    link: "https://steamcommunity.com/profiles/76561199686965886"
   # Uncomment below if you need to.
   #
   # - type: Linkedin

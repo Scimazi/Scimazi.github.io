@@ -10,6 +10,9 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
+- type: steam
+  icon: "fa-brands fa-steam"
+  url: "https://steamcommunity.com/profiles/76561199686965886"
 #- type: rss
 #  icon: "fas fa-rss"
 #  noblank: true
