@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Scimazi # the main title
 
-tagline: 自由发挥 # it will display as the subtitle
+tagline: 自由发挥\\道为上，法次之，而术又次之 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
