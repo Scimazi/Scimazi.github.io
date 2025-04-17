@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Scimazi # the main title
 
-tagline: 道为上，法次之，而术又次之。请询其本，自由发挥。 # it will display as the subtitle
+tagline: 道为上，法次之，而术又次之。请循其本，自由发挥。 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
