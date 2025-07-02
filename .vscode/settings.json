@@ -26,5 +26,6 @@
   // Run tasks in macOS
   "terminal.integrated.profiles.osx": {
     "zsh": { "path": "/bin/zsh", "args": ["-l", "-i"] }
-  }
+  },
+  "idf.pythonInstallPath": "C:\\Users\\zzx_hp\\esp\\espressif\\tools\\idf-python\\3.11.2\\python.exe"
 }
