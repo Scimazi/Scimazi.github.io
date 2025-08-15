@@ -4,9 +4,7 @@
   "editor.formatOnSave": true,
   // Shopify Liquid
   "files.associations": {
-    "*.html": "liquid",
-    "ad7794.h": "c",
-    "ad7793.h": "c"
+    "*.html": "liquid"
   },
   "[markdown]": {
     "editor.defaultFormatter": "yzhang.markdown-all-in-one"
@@ -28,6 +26,5 @@
   // Run tasks in macOS
   "terminal.integrated.profiles.osx": {
     "zsh": { "path": "/bin/zsh", "args": ["-l", "-i"] }
-  },
-  "idf.pythonInstallPath": "C:\\Users\\zzx_hp\\esp\\espressif\\tools\\idf-python\\3.11.2\\python.exe"
+  }
 }
